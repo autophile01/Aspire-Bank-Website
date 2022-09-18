@@ -100,7 +100,7 @@
   ?>
 
   <div class="container">
-    <h2 class="text-center pt-4" id="diksha4">Transfer Money</h2>
+    <h2 class="text-center pt-4" id="diksha4">Our Customers</h2>
     <br>
     <div class="row">
       <div class="col">
