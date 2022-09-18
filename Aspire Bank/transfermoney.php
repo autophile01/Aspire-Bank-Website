@@ -109,7 +109,7 @@
             <thead>
               <tr id="diksha2">
                 <th scope="col" class="text-center py-2">Id</th>
-                <th scope="col" class="text-center py-2">Name</th>
+                <th scope="col" class="text-center py-2">Customer Name</th>
                 <th scope="col" class="text-center py-2">E-Mail</th>
                 <th scope="col" class="text-center py-2">Balance</th>
                 <th scope="col" class="text-center py-2">Details</th>
